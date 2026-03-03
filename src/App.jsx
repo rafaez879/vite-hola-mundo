@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        EJEMPLO HECHO POR ALAN
+        EJEMPLO HECHO POR ALAN XD
       </p>
     </>
   )
