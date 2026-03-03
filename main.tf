@@ -5,7 +5,7 @@ provider "aws" {
 resource "aws_amplify_app" "hola_mundo" {
   name       = "vite-hola-mundo-alan"
   repository = "https://github.com/rafaez879/vite-hola-mundo"
-  access_token = "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"
+  access_token = "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"
 
   build_spec = <<-EOT
     version: 1

@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Ejemplo hecho por rafa vazz tumh tumh
+        EJEMPLO HECHO POR ALAN VAZZ
       </p>
     </>
   )
